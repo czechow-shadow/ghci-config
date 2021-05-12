@@ -1,0 +1,7 @@
+:set -package process
+:set -package unix
+:set -package pretty-simple
+
+:load ~/work/haskell/ghci-config/PC.hs
+:def less PC.lessGhci
+
